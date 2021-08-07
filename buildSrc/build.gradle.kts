@@ -11,5 +11,5 @@ repositories {
 dependencies {
     implementation("io.micronaut.gradle:micronaut-gradle-plugin:1.4.2")
     implementation("com.bmuschko:gradle-docker-plugin:6.7.0")
-    implementation("com.github.jengelman.gradle.plugins:shadow:6.1.0")
+    implementation("gradle.plugin.com.github.jengelman.gradle.plugins:shadow:7.0.0")
 }
